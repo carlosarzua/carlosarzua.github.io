@@ -1,5 +1,4 @@
-# Tokyo Intern Net
-Matching interns abroad with internships in Japan.
+# Tokyo Intern Net: Matching interns abroad with internships in Japan.
 Hi! It's Carlos, teacher and professor of Japanese at CarlosCoordinator.com and the University of Salamananca.
 I connect future interns with their dream internship in Japan.
 
