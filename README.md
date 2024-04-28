@@ -1,5 +1,5 @@
 # Tokyo Intern Net
-Matching interns abroad with internships in Japan.
+## Matching interns abroad with internships in Japan.
 
 # Are you looking for an internship in Japan?
 Set up a call with us to see if we can find a great match for you!
