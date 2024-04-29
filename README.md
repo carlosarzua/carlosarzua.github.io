@@ -21,6 +21,6 @@ Mostly fresh university graduates, fluent in English & Japanese (also Spanish, F
 
 | **Who am I and what do I do** |
 | -------------------------- |
-| I'm Carlos Ramos, Teacher of Japanese & Entrepreneur @ CarlosCoordinator.com |
+| I'm Carlos Ramos, Teacher of Japanese & Entrepreneur @ [CarlosCoordinator.com](url) |
 | I've worked in many places, including Tokyo, Kyoto, Norway, Madagascar, France, the US & Spain. |
 | Thanks to my network, I connect interns with their dream internship in Japan. |
