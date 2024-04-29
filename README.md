@@ -10,6 +10,8 @@ Currently, we have available internships in the following fields:
 
 Some positions do not require Japanese fluency. 
 We're working on adding more, and we can find a role if you're looking for specific requirements.
+<script type="text/javascript" async src="https://static.zcal.co/embed/v1/embed.js"></script>
+<div class="zcal-inline-widget"><a href="https://zcal.co/i/yzDmxnXz">Finding your Internship in Japan - Tokyo Intern Net - Schedule a meeting</a></div>
 
 ### Are you a company or a freelancer looking for an intern?
 Set up a call with us, join our database for free and we'll hook you up with an intern.
