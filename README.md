@@ -13,7 +13,7 @@ Currently, we have available internships in the following fields:
 Some positions do NOT require Japanese fluency. We can also help you find housing.
 We're working on adding more positions, and we can find a role if you're looking for specific requirements. Book your preferred time slot in the section below:
 <script type="text/javascript" async src="https://static.zcal.co/embed/v1/embed.js"></script>
-<div class="zcal-inline-widget"><a href="https://zcal.co/i/yzDmxnXz">Finding your Internship in Japan - Tokyo Intern Net - Schedule a meeting</a></div>
+<div class="zcal-inline-widget"><a href="https://zcal.co/i/yzDmxnXz">Finding your Internship in Japan - Japan Intern Net - Schedule a meeting</a></div>
 
 #### Are you a company or a freelancer looking for an intern?
 Set up a [call with us at your preferred time](https://zcal.co/carloscoordinator/findingyourintern), join our database for free and we'll hook you up with an intern.
