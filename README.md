@@ -15,7 +15,7 @@ We're working on adding more positions, and we can find a role if you're looking
 <script type="text/javascript" async src="https://static.zcal.co/embed/v1/embed.js"></script>
 <div class="zcal-inline-widget"><a href="https://zcal.co/i/yzDmxnXz">Finding your Internship in Japan - Japan Intern Net - Schedule a meeting</a></div>
 
-#### Are you a company or a freelancer looking for an intern?
+#### Are you a company or a freelancer looking for an intern? 💼
 Set up a [call with us at your preferred time](https://zcal.co/carloscoordinator/findingyourintern), join our database for free and we'll hook you up with an intern.
 Mostly fresh university graduates, fluent in English & Japanese (also Spanish, French...).
 
