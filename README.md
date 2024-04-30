@@ -7,6 +7,7 @@ Currently, we have available internships in the following fields:
 * Film & Media &#127909; 
 * Marketing &#128202;
 * Artificial Intelligence &#128421;&#65039;
+* Education (Early Childhood) 🧑‍🏫
 * Food Industry [available as a part-time job] 🍜 
 
 Some positions do NOT require Japanese fluency. We can also help you find housing.
