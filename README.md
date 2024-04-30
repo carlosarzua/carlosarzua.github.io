@@ -1,7 +1,7 @@
 ## Japan Intern Net
 Matching interns abroad with internships in Japan.
 
-#### Are you looking for an internship in Japan? 
+#### Are you looking for an internship in Japan? 🗾
 Set up a [call with us](https://zcal.co/carloscoordinator/internship) to see if we can find a great match for you!
 Currently, we have available internships in the following fields:
 * Film & Media &#127909; 
