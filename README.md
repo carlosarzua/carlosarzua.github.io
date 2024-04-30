@@ -20,7 +20,7 @@ Set up a [call with us at your preferred time](https://zcal.co/carloscoordinator
 Mostly fresh university graduates, fluent in English & Japanese (also Spanish, French...).
 
 
-| **Who am I and what do I do** |
+| **Who am I and what I do** |
 | -------------------------- |
 | I'm Carlos Ramos, Teacher of Japanese & Entrepreneur @ [CarlosCoordinator.com](url) |
 | I've worked in many places, including Tokyo, Kyoto, Norway, Madagascar, France, the US & Spain. |
