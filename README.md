@@ -10,6 +10,7 @@ Currently, we have available internships in the following fields:
 * Education (Early Childhood) 🧑‍🏫
 * Food Industry [available as a part-time job] 🍜 
 
+The program is FREE for students of our academy, [CarlosCoordinator.com](url).
 Some positions do NOT require Japanese fluency. We can also help you find housing.
 We're working on adding more positions, and we can find a role if you're looking for specific requirements. Book your preferred time slot in the section below:
 <script type="text/javascript" async src="https://static.zcal.co/embed/v1/embed.js"></script>
